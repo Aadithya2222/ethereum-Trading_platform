@@ -56,4 +56,4 @@ To set up and run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/rohithprem18/ethereum-react.git
-   cd ethereum-react
+   cd ethereum-react.
